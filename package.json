@@ -2,7 +2,7 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sssithole.github.io/Reactweb",
+  "homepage": "https://sssithole.github.io/Reactweb/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d buld"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
