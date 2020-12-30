@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+### 'to see how the website looks like'
+
+https://sssithole.github.io/Reactweb/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
